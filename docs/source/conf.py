@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'ASPOSE .NET'
+project = 'ASPOSE .NET PDF Annotator'
 copyright = '2022, VS'
 author = 'Vadim Steckler'
 
