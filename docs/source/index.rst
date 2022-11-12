@@ -14,9 +14,10 @@ Walk-through of an example annotation
 
 To give you a taste of what GroupDocs Annotator brings to the table, here is an example using the simplest way to run a spider.
 
-.. code-block:: html
-   :linenos:
-   <h1>code block example</h1>
+This is a simple example::
+
+    import math
+    print 'import done'
 
 * Collaborate with your co-workers using highlighting, callouts, and text annotations.
 * As a teacher, present your onscreen lectures with PDF Annotator making notes in real time. Save the presentation and email it to your students for a study guide, then remove the markups for the next class and start fresh.
