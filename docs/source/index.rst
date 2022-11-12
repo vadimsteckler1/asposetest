@@ -10,7 +10,9 @@ With our Annotator your application will acquire the ability to add text annotat
    All annotations and markups can still be edited when you re-open the document
    
 #Walk-through of an example annotation
+
 To give you a taste of what GroupDocs Annotator brings to the table, here is an example using the simplest way to run a spider.
+
 ```c#
 using (Annotator annotator = new Annotator("input.pdf"))
 {
@@ -43,6 +45,7 @@ using (Annotator annotator = new Annotator("input.pdf"))
     annotator.Save("result.pdf");
 }
 ```
+
 * Collaborate with your co-workers using highlighting, callouts, and text annotations.
 * As a teacher, present your onscreen lectures with PDF Annotator making notes in real time. Save the presentation and email it to your students for a study guide, then remove the markups for the next class and start fresh.
 * Instructions in computer and appliance manuals can be highlighted to help you find them again easily.
