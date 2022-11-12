@@ -1,4 +1,4 @@
-Annotate with Aspose!
+Feature-Rich PDF Annotator for .NET Developers
 ===================================
 
 **Aspose** is a great tool to add your special notes and markups to PDFs.
