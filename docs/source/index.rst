@@ -9,9 +9,9 @@ With our Annotator your application will acquire the ability to add text annotat
 
    All annotations and markups can still be edited when you re-open the document
    
-# Walk-through of an example annotation
+#Walk-through of an example annotation
 To give you a taste of what GroupDocs Annotator brings to the table, here is an example using the simplest way to run a spider.
-```
+```c#
 using (Annotator annotator = new Annotator("input.pdf"))
 {
 	AreaAnnotation area = new AreaAnnotation
