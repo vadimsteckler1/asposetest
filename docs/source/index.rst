@@ -18,7 +18,7 @@ Save the information with the document, print or forward the completed form.
 
 Use the Annotator on your Tablet PC or touch-screen laptop for collaboration on the road.
 
-Make hand-written notes to your PDF documents and e-mail them right from the PDF Annotators.
+Make hand-written notes to your PDF documents and e-mail them right from the PDF Annotator.
 
 For more information on how the PDF Annotator can make your business, academic, and home computing better, refer to 
 Contents
