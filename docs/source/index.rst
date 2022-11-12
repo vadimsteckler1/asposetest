@@ -1,7 +1,7 @@
 Annotate with Aspose!
 ===================================
 
-**Aspose** is a tool to add your special notes and markups to PDFs.
+**Aspose** is a great tool to add your special notes and markups to PDFs.
 
 Open your  Annotator and begin adding text annotation, highlights and collouts directly to the document. Your annotations are saved to the document and can be viewed by using any PDF viewer.
 
