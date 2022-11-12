@@ -16,8 +16,36 @@ To give you a taste of what GroupDocs Annotator brings to the table, here is an 
 
 This is a simple example::
 
-    import math
-    print 'import done'
+    using (Annotator annotator = new Annotator("input.pdf"))
+{
+	AreaAnnotation area = new AreaAnnotation
+    {
+     	BackgroundColor = 65535,
+        Box = new Rectangle(100, 100, 100, 100),
+        CreatedOn = DateTime.Now,
+        Message = "This is area annotation",
+        Opacity = 0.7,
+        PageNumber = 0,
+        PenColor = 65535,
+        PenStyle = PenStyle.Dot,
+        PenWidth = 3,
+        Replies = new List<Reply>
+        {
+        	new Reply
+            {
+            	Comment = "First comment",
+                RepliedOn = DateTime.Now
+            },
+            new Reply
+            {
+            	Comment = "Second comment",
+                RepliedOn = DateTime.Now
+            }
+        }
+    };
+    annotator.Add(area);
+    annotator.Save("result.pdf");
+}
 
 * Collaborate with your co-workers using highlighting, callouts, and text annotations.
 * As a teacher, present your onscreen lectures with PDF Annotator making notes in real time. Save the presentation and email it to your students for a study guide, then remove the markups for the next class and start fresh.
