@@ -17,7 +17,7 @@ To give you a taste of what GroupDocs Annotator brings to the table, here is an 
 This is a simple example::
 
     using (Annotator annotator = new Annotator("input.pdf"))
-{
+	{
 	AreaAnnotation area = new AreaAnnotation
     {
      	BackgroundColor = 65535,
