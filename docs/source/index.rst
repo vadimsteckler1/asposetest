@@ -2,7 +2,7 @@ Annotate with Aspose!
 ===================================
 
 **Aspose** is a tool to add your special notes and markups to PDFs.
-that creates recipes mixing random ingredients.
+Open your documents in PDF annotator
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
 
