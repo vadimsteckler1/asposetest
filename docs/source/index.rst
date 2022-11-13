@@ -45,7 +45,7 @@ This is a simple example::
     };
     annotator.Add(area);
     annotator.Save("result.pdf");
-}
+  }
 
 * Collaborate with your co-workers using highlighting, callouts, and text annotations.
 * As a teacher, present your onscreen lectures with PDF Annotator making notes in real time. Save the presentation and email it to your students for a study guide, then remove the markups for the next class and start fresh.
