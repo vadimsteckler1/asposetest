@@ -17,3 +17,5 @@ Property              Description
 **PenStyle**          Indicates frame line style (solid, dash, dot, etc.)
 **PenWidth**          Indicates frame line width in pixels
 ====================  =============================================================
+
+For an example of the AreaAnnotation command, see :doc:`index`
