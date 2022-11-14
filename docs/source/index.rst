@@ -13,7 +13,7 @@ Walk-through of an example annotation
 ########
 
 .. image::
-   /docs/source/Annotator_01.png`
+   /docs/source/Annotator_01.png
 
 To give you a taste of what GroupDocs Annotator brings to the table, here is an example using the simplest way to annotate a PDF::
 
