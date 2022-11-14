@@ -10,7 +10,7 @@ This command adds an annotation area to the target PDF file. Annotation area pro
 =====  =====  =======
 A      B      A and B
 =====  =====  =======
-False  False  False
+BackgroundColor  Annotation area background represented as decimal code  False
 True   False  False
 False  True   False
 True   True   True
