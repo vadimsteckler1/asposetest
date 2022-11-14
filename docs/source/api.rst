@@ -12,6 +12,8 @@ Property          Description
 ================  =============================================================
 BackgroundColor   Annotation area background represented as decimal code
 ================  =============================================================
+BackgroundColor   Annotation area background represented as decimal code
+================  =============================================================
 Box               Defines annotation position on the current page
 ================  =============================================================
 Opacity           Defines the degree to which content behind the box is hidden
