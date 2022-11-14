@@ -12,10 +12,14 @@ With our Annotator your application will acquire the ability to add text annotat
 Walk-through of an example annotation
 ########
 
+To give you a taste of what GroupDocs Annotator brings to the table, here is an example using the simplest way to annotate a PDF.
+
+In the example below, an annotation area is added to a User Guide draft sent for review:
+
 .. image::
    Annotator_01.png
 
-To give you a taste of what GroupDocs Annotator brings to the table, here is an example using the simplest way to annotate a PDF::
+To accomplish this via the **GroupDocs PDF Annotator** API, the following request needs to be executed::
 
     using (Annotator annotator = new Annotator("input.pdf"))
 	{
