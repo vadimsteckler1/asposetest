@@ -55,7 +55,7 @@ To accomplish this via the **GroupDocs PDF Annotator** API, the following reques
 What just happened?
 -------------------
 
-When you called the ``Add`` method and passed the ``AreaAnnotation``, the Annotator looked for an Annotation Area definition inside it and ran it through the engine. The engine started making requests to the URLs defined in the call properties, passing the values you provided as an argument.
+When you called the ``Add`` method and passed the ``AreaAnnotation`` command, the Annotator looked for an Annotation Area definition inside it and ran it through the engine. The engine started making requests to the URLs defined in the call properties, passing the values you provided as an argument.
 
 Here you notice one of the main advantages about our Annotator: it gives you full control over the resulting annotation through a few self-explanatory settings. You can concurrently modify attributes like opacity, pen color, or even the annotation message through the request syntax and the result will be consistently accurate and impressively fast.
 
