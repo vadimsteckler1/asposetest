@@ -8,6 +8,16 @@ Installation
 
 To use Lumache, first install it using pip:
 
+.. table::
+=====  =====  =======
+A      B      A and B
+=====  =====  =======
+False  False  False
+True   False  False
+False  True   False
+True   True   True
+=====  =====  =======
+
 .. code-block:: console
 
    (.venv) $ pip install lumache
