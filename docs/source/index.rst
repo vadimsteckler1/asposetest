@@ -58,7 +58,7 @@ You bet! You’ve seen how to create an annotation area, but this is just the su
 
 What's next?
 -------------------
-The next steps for you are to follow through the tutorial to learn how to create a full-blown **GroupDocs PDF Annotator** project as described in .. usage:
+The next steps for you are to follow through the tutorial to learn how to create a full-blown **GroupDocs PDF Annotator** project as described in .. usage.rst::
 
 --------
 
