@@ -7,6 +7,14 @@ AreaAnnotation command
 This command adds an annotation area to the target PDF file. Annotation area properties are provided as command arguments listed in the following table:
 
 .. table::
+=====  =====  =======
+A      B      A and B
+=====  =====  =======
+False  False  False
+True   False  False
+False  True   False
+True   True   True
+=====  =====  =======
 
   =====           =====  
   A               B      
