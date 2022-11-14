@@ -21,14 +21,14 @@ In the example below, an annotation area is added to a User Guide draft sent for
 
 To accomplish this via the **GroupDocs PDF Annotator** API, the following request needs to be executed::
 
-    using (Annotator annotator = new Annotator("input.pdf"))
+    using (Annotator annotator = new Annotator("UG_draft.pdf"))
 	{
 	AreaAnnotation area = new AreaAnnotation
     {
-     	BackgroundColor = 65535,
+     	BackgroundColor = 0000ffff,
         Box = new Rectangle(100, 100, 100, 100),
         CreatedOn = DateTime.Now,
-        Message = "This is area annotation",
+        Message = "Too much, set to 5",
         Opacity = 0.7,
         PageNumber = 0,
         PenColor = 65535,
