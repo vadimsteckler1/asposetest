@@ -45,18 +45,19 @@ This is a simple example::
     };
     annotator.Add(area);
     annotator.Save("result.pdf");
-  }
+	}
 
-* Collaborate with your co-workers using highlighting, callouts, and text annotations.
-* As a teacher, present your onscreen lectures with PDF Annotator making notes in real time. Save the presentation and email it to your students for a study guide, then remove the markups for the next class and start fresh.
-* Instructions in computer and appliance manuals can be highlighted to help you find them again easily.
+What just happened?
+-------------------
 
-Use the Annotator on your Tablet PC or touch-screen laptop for collaboration on the road.
+When you called the ``Add`` method and passed the ``AreaAnnotation``, the Annotator looked for an Annotation Area definition inside it and ran it through the engine. The engine started making requests to the URLs defined in the call properties, passing the values you provided as an argument.
 
-Make hand-written notes to your PDF documents and e-mail them right from the PDF Annotator.
+Here you notice one of the main advantages about our Annotator: it gives you full control over the resulting annotation through a few self-explanatory settings. You can concurrently modify attributes like opacity, pen color, or even the annotation message through the request syntax and the result will be consistently accurate and impressively fast.
 
-For more information on how the PDF Annotator can make your business, academic, and home computing better, refer to 
-Contents
+Is there anything else?
+-------------------
+You bet! You’ve seen how to create an annotation area, but this is just the surface. **GroupDocs PDF Annotator** provides a lot of powerful features for making the workflow easy and efficient, such as leaving comments, drawing figures, calculating distances, highlighting and marking up documents, and much more. 
+
 --------
 
 .. toctree::
