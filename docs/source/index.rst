@@ -12,6 +12,8 @@ With our Annotator your application will acquire the ability to add text annotat
 Walk-through of an example annotation
 ########
 
+:ref:`Annotator_01.png`
+
 To give you a taste of what GroupDocs Annotator brings to the table, here is an example using the simplest way to annotate a PDF::
 
     using (Annotator annotator = new Annotator("input.pdf"))
@@ -58,11 +60,4 @@ You bet! You’ve seen how to create an annotation area, but this is just the su
 
 What's next?
 -------------------
-The next steps for you are to follow through the tutorial to learn how to create a full-blown **GroupDocs PDF Annotator** project as described in :doc:`usage`
-
---------
-
-.. toctree::
-
-   usage
-   api
+The next steps for you are to follow through the tutorial to learn how to create a full-blown **GroupDocs PDF Annotator** project as described in :doc:`usage`.
